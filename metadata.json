@@ -1,0 +1,6 @@
+{
+  "name": "ROAM'S-CORE Studio",
+  "description": "Environnement de développement autonome et studio de création logicielle multi-agents avec planification avancée, validation continue et auto-guérison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
